@@ -1,0 +1,65 @@
+# Markflow 用户协议
+
+更新日期：2026-06-12
+
+## 服务说明
+
+Markflow 是一款 Markdown 笔记应用。基础功能免费；高级版为一次性买断的应用内购买，解锁目录管理、导入导出、版本历史、云同步等功能。
+
+## 购买与恢复
+
+高级版通过 App Store / Google Play 完成支付，价格以商店页面显示为准。更换设备或重新安装后，可通过「恢复购买」免费恢复已购内容。退款事宜遵循 Apple / Google 的商店政策。
+
+## 你的内容
+
+你创建的笔记内容归你所有。你授予我们为提供云同步所必需的存储与传输权限，除此之外我们不使用你的内容。
+
+## 合理使用
+
+你不得利用本服务存储或传播违法内容，不得对服务进行逆向破解、滥用或干扰他人使用。
+
+## 免责声明
+
+本服务按「现状」提供。我们会尽力保障数据安全与服务可用，但对因不可抗力、网络故障等造成的数据丢失或服务中断，在法律允许的范围内不承担责任。请妥善保管重要数据的本地备份。
+
+## 协议变更
+
+我们可能不时更新本协议，重大变更会在应用内提示。继续使用即视为接受更新后的协议。
+
+## 联系我们
+
+<jineefo2@gmail.com>
+
+---
+
+# Terms of Use
+
+Last updated: 2026-06-12
+
+## The service
+
+Markflow is a Markdown note-taking app. Core features are free; Premium is a one-time in-app purchase that unlocks folders, import/export, version history, cloud sync, and more.
+
+## Purchases and restore
+
+Premium is billed through the App Store / Google Play at the price shown there. After reinstalling or switching devices, use *Restore purchase* to recover it for free. Refunds follow Apple / Google store policies.
+
+## Your content
+
+You own the notes you create. You grant us only the storage and transmission rights needed to provide cloud sync; we make no other use of your content.
+
+## Acceptable use
+
+Do not use the service to store or distribute unlawful content, reverse engineer the service, or interfere with others' use.
+
+## Disclaimer
+
+The service is provided "as is". We work hard to keep your data safe and the service available, but to the extent permitted by law we are not liable for loss caused by events beyond our control. Please keep local backups of important data.
+
+## Changes
+
+We may update these terms from time to time; material changes will be announced in-app. Continued use constitutes acceptance.
+
+## Contact
+
+<jineefo2@gmail.com>
