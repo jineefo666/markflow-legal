@@ -4,6 +4,11 @@ Markflow 是一款简洁的 Markdown 笔记应用,支持目录管理、模板库
 
 Markflow is a clean Markdown note-taking app with folders, a template library, version history, ZIP / Jupyter Notebook import, and PDF / long-image export.
 
+## 下载 / Download
+
+- 🤖 **Android**: [下载 APK / Download APK](https://github.com/jineefo666/markflow-legal/releases/latest)
+- 🍎 **iOS / macOS**: App Store(上架后更新链接 / App Store link coming soon)
+
 ## 联系我们 / Contact
 
 - 📧 邮箱 / Email: **jineefo2@gmail.com**
